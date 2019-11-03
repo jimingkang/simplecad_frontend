@@ -1,9 +1,13 @@
 # frontend
 
-> A Vue.js project
+> A Vue.js project from simpleCad by mse.sustech.edu
+>first you need  install node in your computer 
+
 
 ## Build Setup
-
+# you  need install vue-konva konva in frontend/node_module first
+>cd frontend
+>npm install vue-konva konva --save
 ``` bash
 # install dependencies
 npm install
