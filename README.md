@@ -5,10 +5,11 @@
 
 
 ## Build Setup
-# you  need install vue-konva konva in frontend/node_module first
->cd frontend
->npm install vue-konva konva --save
+## you  need install vue-konva konva in frontend/node_module first
+
 ``` bash
+cd frontend
+npm install vue-konva konva --save
 # install dependencies
 npm install
 
